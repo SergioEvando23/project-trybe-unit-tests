@@ -82,7 +82,7 @@ Você implementará várias funções para atender aos requisitos propostos e/ou
 
 - Projeto individual;
 - Será um dia de projeto;
-- Data de entrega para avaliação final do projeto: `15/12/2021 - 14:00h`
+- Data de entrega para avaliação final do projeto: `05/01/2022 - 14:00h`
 
 ---
 
