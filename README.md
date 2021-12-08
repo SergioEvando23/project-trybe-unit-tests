@@ -46,7 +46,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 Nesse projeto, você será capaz de:
 
-- Escrever testes unitários para funções utilizando o módulo Assert do NodeJS para verificar o correto funcionamento dessas funções;
+- Escrever testes unitários para funções utilizando o Jest para verificar o correto funcionamento dessas funções;
 - A partir de testes já implementados, escrever funções de forma que elas atendam aos testes propostos;
 - Escrever testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
 
@@ -81,7 +81,7 @@ Você implementará várias funções para atender aos requisitos propostos e/ou
 ### Data de entrega
 
 - Projeto individual;
-- Será um dia de projeto;
+- Será `1` de projeto;
 - Data de entrega para avaliação final do projeto: `05/01/2022 - 14:00h`
 
 ---
