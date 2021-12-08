@@ -81,7 +81,7 @@ Você implementará várias funções para atender aos requisitos propostos e/ou
 ### Data de entrega
 
 - Projeto individual;
-- Será `1` de projeto;
+- Será `1` dia de projeto;
 - Data de entrega para avaliação final do projeto: `05/01/2022 - 14:00h`
 
 ---
