@@ -1,4 +1,4 @@
-# Projeto Unit Test
+# Projeto Unit Tests
 
 Esse projeto foi feito como avaliação de ensino do curso de desenvolvimento web fullstack da Trybe, ultilizando se de tecnologias como:
 
